@@ -72,10 +72,13 @@ The uploader accepts:
 * `.png`
 * `.gif`
 
-## Live Deployment
+## Live deployment
+Live deployment: https://drag-and-drop-alamdar.netlify.app/
+
+## Professional links
+
 LinkedIn: www.linkedin.com/in/syed-muhammad-alamdar-a57a33179
 Website: https://portfolio-alamdar.netlify.app/
-Live deployment: 
 
 ## 📌 Note
 
